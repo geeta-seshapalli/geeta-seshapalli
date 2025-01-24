@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Geeta Seshapalli</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="geetaseshapalli" width="400" scr="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geeta-seshapalli&label=Profile%20views&color=0e75b6&style=flat" alt="geeta-seshapalli" /> </p>
 
