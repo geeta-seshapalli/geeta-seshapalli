@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Geeta Seshapalli</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-
-<p align="left"> <a href="https://twitter.com/geetaseshapalli" target="blank"><img src="https://img.shields.io/twitter/follow/geetaseshapalli?logo=twitter&style=for-the-badge" alt="geetaseshapalli" /></a> </p>
-
 - 🌱 I’m currently learning **Data structures and Algorithms**
 
 - 📫 How to reach me **geetaseshapalli@gmail.com**
