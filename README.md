@@ -22,6 +22,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geeta-seshapalli&show_icons=true&locale=en&layout=compact" alt="geeta-seshapalli" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geeta-seshapalli&show_icons=true&locale=en" alt="geeta-seshapalli" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geeta-seshapalli&" alt="geeta-seshapalli" /></p>
